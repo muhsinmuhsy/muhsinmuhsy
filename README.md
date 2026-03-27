@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhsinmuhsy&label=Profile%20views&color=0e75b6&style=flat" alt="muhsinmuhsy" /> </p>
 
-- 🌱 I’m currently learning **Pytorch**
-
-- 💬 Ask me about **Python, Django, Django Rest Framework and Django Ninja**
-
 - 📫 How to reach me **muhsinmuhsy0@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
