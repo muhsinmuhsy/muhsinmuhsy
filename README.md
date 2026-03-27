@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Muhsin MK</h1>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/94e0a8d0-3fa8-4241-b275-74c7fe4e173f" /><h1 align="center">Hi 👋, I'm Muhammad Muhsin MK</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" >
@@ -6,6 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhsinmuhsy&label=Profile%20views&color=0e75b6&style=flat" alt="muhsinmuhsy" /> </p>
 
 - 📫 How to reach me **muhsinmuhsy0@gmail.com**
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6d8d5813-1a34-43b3-aa99-543c7d46f288" />
+
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left"> -->
