@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **muhsinmuhsy0@gmail.com**
 
-<img width="10" height="512" alt="image" src="https://github.com/user-attachments/assets/6d8d5813-1a34-43b3-aa99-543c7d46f288" />
+<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/6d8d5813-1a34-43b3-aa99-543c7d46f288" />
 
 
 <!-- <h3 align="left">Connect with me:</h3>
