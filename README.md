@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **muhsinmuhsy0@gmail.com**
 
-- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/07a3466f-2708-4c11-87e5-caadbd83bbd2" /> **https://www.linkedin.com/in/muhsin-mk**
+- <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/07a3466f-2708-4c11-87e5-caadbd83bbd2" /> **https://www.linkedin.com/in/muhsin-mk**
 
 
 <!-- <h3 align="left">Connect with me:</h3>
